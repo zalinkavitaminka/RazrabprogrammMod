@@ -1,0 +1,11 @@
+D:\Ражбадинов Рамазан\лялляляля\obj\Debug\лялляляля.csproj.AssemblyReference.cache
+D:\Ражбадинов Рамазан\лялляляля\obj\Debug\лялляляля.Form1.resources
+D:\Ражбадинов Рамазан\лялляляля\obj\Debug\лялляляля.Properties.Resources.resources
+D:\Ражбадинов Рамазан\лялляляля\obj\Debug\лялляляля.csproj.GenerateResource.cache
+D:\Ражбадинов Рамазан\лялляляля\obj\Debug\лялляляля.csproj.CoreCompileInputs.cache
+D:\Ражбадинов Рамазан\лялляляля\bin\Debug\лялляляля.exe.config
+D:\Ражбадинов Рамазан\лялляляля\bin\Debug\лялляляля.exe
+D:\Ражбадинов Рамазан\лялляляля\bin\Debug\лялляляля.pdb
+D:\Ражбадинов Рамазан\лялляляля\obj\Debug\лялляляля.exe
+D:\Ражбадинов Рамазан\лялляляля\obj\Debug\лялляляля.pdb
+D:\Ражбадинов Рамазан\лялляляля\obj\Debug\лялляляля.exe.config
