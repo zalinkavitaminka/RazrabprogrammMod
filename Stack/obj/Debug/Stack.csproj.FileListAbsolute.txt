@@ -1,0 +1,11 @@
+D:\Zalina\RazpabProgrMod\Stack\obj\Debug\Stack.csproj.AssemblyReference.cache
+D:\Zalina\RazpabProgrMod\Stack\obj\Debug\Stack.Form1.resources
+D:\Zalina\RazpabProgrMod\Stack\obj\Debug\Stack.Properties.Resources.resources
+D:\Zalina\RazpabProgrMod\Stack\obj\Debug\Stack.csproj.GenerateResource.cache
+D:\Zalina\RazpabProgrMod\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+D:\Zalina\RazpabProgrMod\Stack\bin\Debug\Stack.exe.config
+D:\Zalina\RazpabProgrMod\Stack\bin\Debug\Stack.exe
+D:\Zalina\RazpabProgrMod\Stack\bin\Debug\Stack.pdb
+D:\Zalina\RazpabProgrMod\Stack\obj\Debug\Stack.exe
+D:\Zalina\RazpabProgrMod\Stack\obj\Debug\Stack.pdb
+D:\Zalina\RazpabProgrMod\Stack\obj\Debug\Stack.exe.config
