@@ -1,0 +1,11 @@
+D:\Zalina\RazpabProgrMod\Queue\bin\Debug\Queue.exe.config
+D:\Zalina\RazpabProgrMod\Queue\bin\Debug\Queue.exe
+D:\Zalina\RazpabProgrMod\Queue\bin\Debug\Queue.pdb
+D:\Zalina\RazpabProgrMod\Queue\obj\Debug\Queue.csproj.AssemblyReference.cache
+D:\Zalina\RazpabProgrMod\Queue\obj\Debug\Queue.Form1.resources
+D:\Zalina\RazpabProgrMod\Queue\obj\Debug\Queue.Properties.Resources.resources
+D:\Zalina\RazpabProgrMod\Queue\obj\Debug\Queue.csproj.GenerateResource.cache
+D:\Zalina\RazpabProgrMod\Queue\obj\Debug\Queue.csproj.CoreCompileInputs.cache
+D:\Zalina\RazpabProgrMod\Queue\obj\Debug\Queue.exe
+D:\Zalina\RazpabProgrMod\Queue\obj\Debug\Queue.pdb
+D:\Zalina\RazpabProgrMod\Queue\obj\Debug\Queue.exe.config
