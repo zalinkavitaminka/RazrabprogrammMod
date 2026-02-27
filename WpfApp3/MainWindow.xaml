@@ -1,0 +1,25 @@
+﻿<Window x:Class="WpfApp3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp3"
+        mc:Ignorable="d"
+        Title="ООО Торговые Автоматы - Личный кабинет" Height="450" Width="800">
+    <Grid>
+        <Border BorderBrush="White" BorderThickness="1" Height="60" VerticalAlignment="Top">
+            <StackPanel Height="38" Margin="688,0,9,0" VerticalAlignment="Center"/>
+        </Border>
+        <Border BorderBrush="Black" BorderThickness="1" HorizontalAlignment="Left" Height="367" Margin="1,67,0,0" VerticalAlignment="Top" Width="200"/>
+        <Grid HorizontalAlignment="Left" Height="367" Margin="206,67,0,0" VerticalAlignment="Top" Width="594" Grid.Row="1">
+            <ScrollViewer HorizontalAlignment="Center" Height="357" VerticalAlignment="Top" Width="574" Grid.Column="1" Grid.ColumnSpan="2">
+                <StackPanel Height="332" Width="523" Margin="30" >
+                    <Border BorderBrush="Black" BorderThickness="1" Height="100" Width="502">
+                        <TextBlock HorizontalAlignment="Left" Height="29" Margin="27,9,0,0" TextWrapping="Wrap" Text="Личный кабинет. Главная" VerticalAlignment="Top" Width="266"/>
+                    </Border>
+                </StackPanel>
+            </ScrollViewer>
+        </Grid>
+
+    </Grid>
+</Window>

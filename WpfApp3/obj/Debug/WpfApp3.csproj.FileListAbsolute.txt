@@ -1,0 +1,16 @@
+D:\Zalina\RazpabProgrMod\WpfApp3\bin\Debug\WpfApp3.exe.config
+D:\Zalina\RazpabProgrMod\WpfApp3\bin\Debug\WpfApp3.exe
+D:\Zalina\RazpabProgrMod\WpfApp3\bin\Debug\WpfApp3.pdb
+D:\Zalina\RazpabProgrMod\WpfApp3\obj\Debug\WpfApp3.csproj.AssemblyReference.cache
+D:\Zalina\RazpabProgrMod\WpfApp3\obj\Debug\MainWindow.g.cs
+D:\Zalina\RazpabProgrMod\WpfApp3\obj\Debug\App.g.cs
+D:\Zalina\RazpabProgrMod\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.cache
+D:\Zalina\RazpabProgrMod\WpfApp3\obj\Debug\WpfApp3_MarkupCompile.lref
+D:\Zalina\RazpabProgrMod\WpfApp3\obj\Debug\MainWindow.baml
+D:\Zalina\RazpabProgrMod\WpfApp3\obj\Debug\WpfApp3.g.resources
+D:\Zalina\RazpabProgrMod\WpfApp3\obj\Debug\WpfApp3.Properties.Resources.resources
+D:\Zalina\RazpabProgrMod\WpfApp3\obj\Debug\WpfApp3.csproj.GenerateResource.cache
+D:\Zalina\RazpabProgrMod\WpfApp3\obj\Debug\WpfApp3.csproj.CoreCompileInputs.cache
+D:\Zalina\RazpabProgrMod\WpfApp3\obj\Debug\WpfApp3.exe
+D:\Zalina\RazpabProgrMod\WpfApp3\obj\Debug\WpfApp3.pdb
+D:\Zalina\RazpabProgrMod\WpfApp3\obj\Debug\WpfApp3.exe.config

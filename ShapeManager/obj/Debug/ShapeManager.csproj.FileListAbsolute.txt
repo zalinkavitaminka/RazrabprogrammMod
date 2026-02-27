@@ -1,0 +1,11 @@
+D:\Zalina\ShapeManager\bin\Debug\ShapeManager.exe.config
+D:\Zalina\ShapeManager\bin\Debug\ShapeManager.exe
+D:\Zalina\ShapeManager\bin\Debug\ShapeManager.pdb
+D:\Zalina\ShapeManager\obj\Debug\ShapeManager.csproj.AssemblyReference.cache
+D:\Zalina\ShapeManager\obj\Debug\ShapeManager.Form1.resources
+D:\Zalina\ShapeManager\obj\Debug\ShapeManager.Properties.Resources.resources
+D:\Zalina\ShapeManager\obj\Debug\ShapeManager.csproj.GenerateResource.cache
+D:\Zalina\ShapeManager\obj\Debug\ShapeManager.csproj.CoreCompileInputs.cache
+D:\Zalina\ShapeManager\obj\Debug\ShapeManager.exe
+D:\Zalina\ShapeManager\obj\Debug\ShapeManager.pdb
+D:\Zalina\ShapeManager\obj\Debug\ShapeManager.exe.config
