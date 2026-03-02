@@ -1,0 +1,11 @@
+D:\Zalina\LINQ\bin\Debug\LINQ.exe.config
+D:\Zalina\LINQ\bin\Debug\LINQ.exe
+D:\Zalina\LINQ\bin\Debug\LINQ.pdb
+D:\Zalina\LINQ\obj\Debug\LINQ.csproj.AssemblyReference.cache
+D:\Zalina\LINQ\obj\Debug\LINQ.Form1.resources
+D:\Zalina\LINQ\obj\Debug\LINQ.Properties.Resources.resources
+D:\Zalina\LINQ\obj\Debug\LINQ.csproj.GenerateResource.cache
+D:\Zalina\LINQ\obj\Debug\LINQ.csproj.CoreCompileInputs.cache
+D:\Zalina\LINQ\obj\Debug\LINQ.exe
+D:\Zalina\LINQ\obj\Debug\LINQ.pdb
+D:\Zalina\LINQ\obj\Debug\LINQ.exe.config
