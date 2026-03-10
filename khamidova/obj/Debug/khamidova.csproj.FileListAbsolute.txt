@@ -1,0 +1,6 @@
+D:\Zalina\RazpabProgrMod\khamidova\bin\Debug\khamidova.dll
+D:\Zalina\RazpabProgrMod\khamidova\bin\Debug\khamidova.pdb
+D:\Zalina\RazpabProgrMod\khamidova\obj\Debug\khamidova.csproj.AssemblyReference.cache
+D:\Zalina\RazpabProgrMod\khamidova\obj\Debug\khamidova.csproj.CoreCompileInputs.cache
+D:\Zalina\RazpabProgrMod\khamidova\obj\Debug\khamidova.dll
+D:\Zalina\RazpabProgrMod\khamidova\obj\Debug\khamidova.pdb
