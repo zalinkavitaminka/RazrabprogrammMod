@@ -1,0 +1,12 @@
+D:\Zalina\RazpabProgrMod\zalina\bin\Debug\zalina.exe.config
+D:\Zalina\RazpabProgrMod\zalina\bin\Debug\zalina.exe
+D:\Zalina\RazpabProgrMod\zalina\bin\Debug\zalina.pdb
+D:\Zalina\RazpabProgrMod\zalina\obj\Debug\zalina.csproj.AssemblyReference.cache
+D:\Zalina\RazpabProgrMod\zalina\obj\Debug\zalina.Form1.resources
+D:\Zalina\RazpabProgrMod\zalina\obj\Debug\zalina.Form2.resources
+D:\Zalina\RazpabProgrMod\zalina\obj\Debug\zalina.Properties.Resources.resources
+D:\Zalina\RazpabProgrMod\zalina\obj\Debug\zalina.csproj.GenerateResource.cache
+D:\Zalina\RazpabProgrMod\zalina\obj\Debug\zalina.csproj.CoreCompileInputs.cache
+D:\Zalina\RazpabProgrMod\zalina\obj\Debug\zalina.exe
+D:\Zalina\RazpabProgrMod\zalina\obj\Debug\zalina.pdb
+D:\Zalina\RazpabProgrMod\zalina\obj\Debug\zalina.exe.config
