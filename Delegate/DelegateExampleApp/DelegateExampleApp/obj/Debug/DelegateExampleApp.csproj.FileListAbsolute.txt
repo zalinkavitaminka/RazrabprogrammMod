@@ -1,0 +1,10 @@
+D:\Zalina\RazpabProgrMod\DelegateExampleApp\DelegateExampleApp\bin\Debug\DelegateExampleApp.exe.config
+D:\Zalina\RazpabProgrMod\DelegateExampleApp\DelegateExampleApp\bin\Debug\DelegateExampleApp.exe
+D:\Zalina\RazpabProgrMod\DelegateExampleApp\DelegateExampleApp\bin\Debug\DelegateExampleApp.pdb
+D:\Zalina\RazpabProgrMod\DelegateExampleApp\DelegateExampleApp\obj\Debug\DelegateExampleApp.csproj.AssemblyReference.cache
+D:\Zalina\RazpabProgrMod\DelegateExampleApp\DelegateExampleApp\obj\Debug\DelegateExampleApp.Form1.resources
+D:\Zalina\RazpabProgrMod\DelegateExampleApp\DelegateExampleApp\obj\Debug\DelegateExampleApp.Properties.Resources.resources
+D:\Zalina\RazpabProgrMod\DelegateExampleApp\DelegateExampleApp\obj\Debug\DelegateExampleApp.csproj.GenerateResource.cache
+D:\Zalina\RazpabProgrMod\DelegateExampleApp\DelegateExampleApp\obj\Debug\DelegateExampleApp.csproj.CoreCompileInputs.cache
+D:\Zalina\RazpabProgrMod\DelegateExampleApp\DelegateExampleApp\obj\Debug\DelegateExampleApp.exe
+D:\Zalina\RazpabProgrMod\DelegateExampleApp\DelegateExampleApp\obj\Debug\DelegateExampleApp.pdb
